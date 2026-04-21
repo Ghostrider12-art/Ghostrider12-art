@@ -16,22 +16,22 @@ Here are some ideas to get you started:
 
 # Hey 👋 I'm Rahul
 
-I build systems that connect the real world with data.
-
-Focused on **IoT, Embedded Systems, and Data Analysis** — turning sensor data into meaningful insights and real-world actions.
+I build practical systems across **Embedded, IoT, and Data** — focused on solving real-world problems and extracting meaningful insights.
 
 ---
 
 ### ⚙️ Tech
-Arduino • ESP32 • Raspberry Pi  
-C • Python • JavaScript  
-Power BI • Excel • Data Visualization  
+`Arduino` • `ESP32` • `Raspberry Pi`  
+`C` • `Python` • `cpp` 
+`Power BI` • `Excel` • `Data Analysis`  
 
 ---
 
 ### 🚀 What I Do
-- Smart monitoring & alert systems  
-- Embedded + sensor-based solutions  
-- Data-driven IoT projects  
+- Embedded & sensor-based systems  
+- Data analysis and visualization  
+- Real-time and problem-driven projects  
 
 ---
+
+
